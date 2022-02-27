@@ -1,9 +1,9 @@
 # TLABC papers
-[1] Xu Chen, et al. Teaching-learning-based artificial bee colony. International Conference on Swarm Intelligence. Springer, 2018. https://link.springer.com/chapter/10.1007/978-3-319-93815-8_17
+[1] Xu Chen, et al. Teaching–learning–based artificial bee colony for solar photovoltaic parameter estimation. Applied energy. 2018,212: 1578-1588. https://www.sciencedirect.com/science/article/pii/S0306261917318391?casa_token=eqqKOekLEysAAAAA:tAwkbyI5OxAIbDCYn6yVpG2jRn45BOwtPRs9nw_hQFYTjcaD1pbctFcwrSPRHF6fzfStnpwfaQ
 
-[2] Xu Chen, et al. Teaching–learning–based artificial bee colony for solar photovoltaic parameter estimation. Applied energy. 212 (2018): 1578-1588. https://www.sciencedirect.com/science/article/pii/S0306261917318391?casa_token=eqqKOekLEysAAAAA:tAwkbyI5OxAIbDCYn6yVpG2jRn45BOwtPRs9nw_hQFYTjcaD1pbctFcwrSPRHF6fzfStnpwfaQ
+[2] Xu Chen, et al. Teaching-learning-based artificial bee colony. International Conference on Swarm Intelligence. Springer, 2018. https://link.springer.com/chapter/10.1007/978-3-319-93815-8_17
 
-[3] Saleh Radhwan Ali Abdulghani, et al. Classification of melanoma images using modified teaching learning based artificial bee colony. Avrupa Bilim ve Teknoloji Dergisi. 2019: 225-232. https://dergipark.org.tr/en/pub/ejosat/article/637846
+[3] Saleh Radhwan Ali Abdulghani, et al. Classification of melanoma images using modified teaching learning based artificial bee colony. Avrupa Bilim ve Teknoloji Dergisi. 2019,31(10): 225-232. https://dergipark.org.tr/en/pub/ejosat/article/637846
 
 [4] Akay Rustu, et al. Multilevel thresholding segmentation of color plant disease images using metaheuristic optimization algorithms. Neural Computing and Applications. 2022, 34:1161–1179. https://link.springer.com/article/10.1007/s00521-021-06437-1
 
